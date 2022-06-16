@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left">Known language and tools</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"></p>
+<p align="left"> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=calvinkenn&show_icons=true&theme=dark" />
