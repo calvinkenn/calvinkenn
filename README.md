@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Known language and tools</h3>
 <p align="left"> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
